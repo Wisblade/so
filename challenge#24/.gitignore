@@ -1,0 +1,7 @@
+/.vs/
+/SOC24/
+/x64/
+*.vcxproj.filters
+*.vcxproj.user
+/SOC24_ALL_2598960_hands.json
+/SOC24_SAMPLE_100000_hands.json
